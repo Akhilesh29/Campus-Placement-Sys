@@ -184,6 +184,10 @@ Campus Placement system is the project which is beneficial for college students,
 |`GET` /getallapplyjob | | | Allows admin to view which job has been applied by which student |  
 
 ## Screens  
+![Screenshot 2024-06-07 103733](https://github.com/Akhilesh29/Campus-Placement-Sys/assets/98381403/3066fc03-911f-4166-a240-2307fd980e7c)
+![Screenshot 2024-06-07 104036](https://github.com/Akhilesh29/Campus-Placement-Sys/assets/98381403/4a4908ee-d61c-465c-9008-47f54c919c13)
+![Screenshot 2024-06-07 104156](https://github.com/Akhilesh29/Campus-Placement-Sys/assets/98381403/b12b6bb7-372a-46b9-8780-19d651534fa0)
+![Screenshot 2024-06-07 104313](https://github.com/Akhilesh29/Campus-Placement-Sys/assets/98381403/d889be4b-4cfc-477b-a58d-fee644d6ef6e)
 ![Frame 84](https://user-images.githubusercontent.com/76587223/169648864-0d055439-6316-43c1-b34b-ccd072614946.png)
 
 
