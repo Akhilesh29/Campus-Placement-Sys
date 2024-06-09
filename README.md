@@ -183,12 +183,19 @@ Campus Placement system is the project which is beneficial for college students,
 | `GET` /viewapplyjob | studentId | | Allows student to view the jobs he/she has applied |
 |`GET` /getallapplyjob | | | Allows admin to view which job has been applied by which student |  
 
-## Screens  
+## Screens 
+
+## Home Page:
 ![Screenshot 2024-06-07 103733](https://github.com/Akhilesh29/Campus-Placement-Sys/assets/98381403/3066fc03-911f-4166-a240-2307fd980e7c)
+## Sign Up Page:
 ![Screenshot 2024-06-07 104036](https://github.com/Akhilesh29/Campus-Placement-Sys/assets/98381403/4a4908ee-d61c-465c-9008-47f54c919c13)
+## Sign in Page(By Admin):
 ![Screenshot 2024-06-07 104156](https://github.com/Akhilesh29/Campus-Placement-Sys/assets/98381403/b12b6bb7-372a-46b9-8780-19d651534fa0)
+## Sign in Page(By Student):
 ![Screenshot 2024-06-07 104313](https://github.com/Akhilesh29/Campus-Placement-Sys/assets/98381403/d889be4b-4cfc-477b-a58d-fee644d6ef6e)
+## Update Profile Page:
 ![Update Profile Page](https://github.com/Akhilesh29/Campus-Placement-Sys/assets/98381403/9ba4ff17-c1a9-4ba8-84c5-652e2d72f9ad)
+## Student Home Page :
 ![Student Home Page](https://github.com/Akhilesh29/Campus-Placement-Sys/assets/98381403/562ae4ff-4abb-45e0-ab9e-d0778b05cddc)
 
 ## All Screens in One Image:
