@@ -2,6 +2,8 @@
 
 Campus Placement system is the project which is beneficial for college students, various companies visiting the campus for recruitment and even the college placement admin. The system allows the students to create their profiles and upload all their details including their marks onto the system and can apply for jobs which admin has updated.
 
+## Live Demo: https://drive.google.com/file/d/17sXc8SXBvqaihfVpRwjYZxPW0-ywg8IJ/view?usp=sharing 
+
 ## Tech-Stack
 1. [ReactJs](https://reactjs.org/)
 2. [NodeJs](https://nodejs.org/en/about/)
